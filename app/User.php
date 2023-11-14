@@ -11,6 +11,7 @@ class User extends Authenticatable
     use Notifiable;
 // test ubah source ke github
 // test 2
+// test 3
     /**
      * The attributes that are mass assignable.
      *
